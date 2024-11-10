@@ -1,19 +1,22 @@
 <h1 align="center">Hey there, this is Tharunika L</h1>
 <h3 align="center">Learning and Growing</h3>
 
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/e1607aee-924a-4a89-909d-bfbc79f3437c" alt="computer-work" width="150">
-</p>
-
-- 🔭 I’m currently working on **Genetic Algorithms**
-
-- 🌱 I’m currently learning **RAG Models**
-
-- 💬 Ask me about **Deep Learning**
-
-- 📫 How to reach me **tharunika.l14@gmail.com**
-
-- ⚡ Fun fact **I've read over 150+ books**
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on <strong>Genetic Algorithms</strong></li>
+        <li>🌱 I’m currently learning <strong>RAG Models</strong></li>
+        <li>💬 Ask me about <strong>Deep Learning</strong></li>
+        <li>📫 How to reach me: <strong>tharunika.l14@gmail.com</strong></li>
+        <li>⚡ Fun fact: <strong>I've read over 150+ books</strong></li>
+      </ul>
+    </td>
+    <td align="right">
+      <img src="https://github.com/user-attachments/assets/e1607aee-924a-4a89-909d-bfbc79f3437c" alt="computer-work" width="150">
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
