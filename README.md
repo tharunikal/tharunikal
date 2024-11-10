@@ -3,8 +3,9 @@
 
 <p align="right">
   <img src="https://media.tenor.com/3d0308b37f763568b9e3f438fa8dfd16/tenor.gif" alt="Computer Work GIF" width="150">
-</p>![computer-work](https://github.com/user-attachments/assets/7f9ce2a2-b80d-4092-99ec-ccafaec3a065)
+</p>
 
+![computer-work](https://github.com/user-attachments/assets/e1607aee-924a-4a89-909d-bfbc79f3437c)
 
 - 🔭 I’m currently working on **Genetic Algorithms**
 
