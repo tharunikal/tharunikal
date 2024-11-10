@@ -2,7 +2,7 @@
 <h3 align="center">Learning and Growing</h3>
 
 <p align="right">
-  <img src="https://media.tenor.com/images/3d0308b37f763568b9e3f438fa8dfd16/tenor.gif" alt="Computer Work GIF" width="150">
+  <img src="https://media.tenor.com/3d0308b37f763568b9e3f438fa8dfd16/tenor.gif" alt="Computer Work GIF" width="150">
 </p>
 
 - 🔭 I’m currently working on **Genetic Algorithms**
