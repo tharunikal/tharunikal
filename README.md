@@ -1,9 +1,9 @@
 <h1 align="center">Hey there, this is Tharunika L</h1>
 <h3 align="center">Learning and Growing</h3>
 
-<div style="display: flex; align-items: center; width: 100%;">
-  <!-- Left Column: About Section -->
-  <div style="flex: 1; padding: 20px;">
+<div style="position: relative;">
+  <!-- About Section on the left -->
+  <div style="padding: 20px; text-align: left;">
     <ul style="list-style: none; padding: 0; margin: 0;">
       <li>🔭 I’m currently working on <strong>Genetic Algorithms</strong></li>
       <li>🌱 I’m currently learning <strong>RAG Models</strong></li>
@@ -12,11 +12,9 @@
       <li>⚡ Fun fact: <strong>I've read over 150+ books</strong></li>
     </ul>
   </div>
-  
-  <!-- Right Column: GIF Section -->
-  <div style="flex-shrink: 0; padding: 20px;">
-    <img src="https://github.com/user-attachments/assets/e1607aee-924a-4a89-909d-bfbc79f3437c" alt="computer-work" style="max-width: 200px; float: right;">
-  </div>
+
+  <!-- GIF on the top-right corner -->
+  <img src="https://github.com/user-attachments/assets/e1607aee-924a-4a89-909d-bfbc79f3437c" alt="computer-work" style="position: absolute; top: 0; right: 0; max-width: 200px;">
 </div>
 
 <h3 align="left">Connect with me:</h3>
