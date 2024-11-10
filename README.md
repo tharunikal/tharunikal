@@ -1,8 +1,9 @@
 <h1 align="center">Hey there, this is Tharunika L</h1>
 <h3 align="center">Learning and Growing</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="padding-right: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <!-- Left Column: About Section -->
+  <div style="width: 50%; padding: 20px;">
     <ul style="list-style: none; padding: 0; margin: 0;">
       <li>🔭 I’m currently working on <strong>Genetic Algorithms</strong></li>
       <li>🌱 I’m currently learning <strong>RAG Models</strong></li>
@@ -11,8 +12,10 @@
       <li>⚡ Fun fact: <strong>I've read over 150+ books</strong></li>
     </ul>
   </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/e1607aee-924a-4a89-909d-bfbc79f3437c" alt="computer-work" width="250">
+  
+  <!-- Right Column: GIF Section -->
+  <div style="width: 50%; display: flex; justify-content: center; padding: 20px;">
+    <img src="https://github.com/user-attachments/assets/e1607aee-924a-4a89-909d-bfbc79f3437c" alt="computer-work" width="100%">
   </div>
 </div>
 
@@ -51,4 +54,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunikal&show_icons=true&locale=en&layout=compact" alt="tharunikal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunikal&" alt="tharunikal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th
