@@ -6,20 +6,18 @@
 </div>
 
 <p align="center">
-  🔗 <a href="https://your-portfolio-link.com" target="_blank"><strong>Visit my portfolio</strong></a>
+  🔗 <a href="https://tharunikal.vercel.app/" target="_blank"><strong>Visit my portfolio</strong></a>
 </p>
 
 ---
 
-### 🌱 About Me
 
-- 🔭 I’m currently working on **Genetic Algorithms**
-- 🌱 I’m currently learning **RAG Models**
-- 💬 Ask me about **Deep Learning**
-- 📫 How to reach me: **tharunika.l14@gmail.com**
-- ⚡ Fun fact: **I've read over 150+ books**
 
----
+### 🌟 About Me
+Tinkering with software tools and algorithms by day,  
+lost in the world of Virginia Woolf by night.  
+I build, I break, I learn, I read.
+
 
 ### 📫 Connect with me
 
@@ -57,4 +55,4 @@
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" /></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /></a>
-<a href="https://zapier.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40" height="40" /></a>
+
