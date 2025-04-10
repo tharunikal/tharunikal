@@ -11,10 +11,17 @@
 
 ---
 
+<h3 align="center">✨ About Me ✨</h3>
 
+<p align="center">
+  <em>
+    Tinkering with software tools and algorithms by day,<br/>
+    lost in the world of <strong>Virginia Woolf</strong> by night.<br/>
+    <br/>
+    I build 🛠️, I break 💥, I learn 🧠, I read 📚.
+  </em>
+</p>
 
-### 🌟 About Me
-<pre> ```diff + Tinkering with software tools and algorithms by day, - lost in the world of Virginia Woolf by night. ! I build, I break, I learn, I read. ``` </pre>
 
 ### 📫 Connect with me
 
