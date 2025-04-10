@@ -14,10 +14,7 @@
 
 
 ### 🌟 About Me
-Tinkering with software tools and algorithms by day,  
-lost in the world of Virginia Woolf by night.  
-I build, I break, I learn, I read.
-
+<pre> ```diff + Tinkering with software tools and algorithms by day, - lost in the world of Virginia Woolf by night. ! I build, I break, I learn, I read. ``` </pre>
 
 ### 📫 Connect with me
 
