@@ -18,7 +18,6 @@
     Tinkering with software tools and algorithms by day,<br/>
     lost in the world of <strong>Virginia Woolf</strong> by night.<br/>
     <br/>
-    I build , I break , I learn , I read .
   </em>
 </p>
 
